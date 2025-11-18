@@ -10,9 +10,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/1200x/d6/f2/77/d6f2778e4a9c4b3ea4a76f09392901ba.jpg"  />
+<img align="right" height="300" width="500" src="https://i.pinimg.com/1200x/d6/f2/77/d6f2778e4a9c4b3ea4a76f09392901ba.jpg "  />
 
-###
+###"
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

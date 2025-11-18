@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/1200x/d6/f2/77/d6f2778e4a9c4b3ea4a76f09392901ba.jpg"  />
 
 ###
 
@@ -28,8 +28,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGguMU7C4fZb0mMFl2vqOPf3uhExb7UfLNKg&s" height="30" alt="sweet alert logo"  />
   <img width="12" />
   
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  
 </div>
 
 ###

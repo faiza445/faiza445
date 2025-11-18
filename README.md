@@ -1,19 +1,4 @@
-## Hi there 👋
 
-<!--
-**faiza445/faiza445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="left">Hi 👋! My name is Faiza. and I'm a Frontend Developer..., from Pakistan....</h2>
 
 ###
@@ -38,7 +23,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XUah3htpivTPXPcaIpuMYp_OUm1J9JDQ-MHAg1SVvxSVASAHMyQicl6orcQqJhl-p34&usqp=CAU" height="30" alt="bootstrap logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XUah3htpivTPXPcaIpuMYp_OUm1J9JDQ-MHAg1SVvxSVASAHMyQicl6orcQqJhl-p34&usqp=CAU" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/https://ucarecdn.com/c4c55828-7bcf-4661-8f4f-52745636aafd/" height="30" alt="sweet alert logo"  />
   <img width="12" />
@@ -62,6 +47,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###

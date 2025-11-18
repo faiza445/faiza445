@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XUah3htpivTPXPcaIpuMYp_OUm1J9JDQ-MHAg1SVvxSVASAHMyQicl6orcQqJhl-p34&usqp=CAU" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/https://ucarecdn.com/c4c55828-7bcf-4661-8f4f-52745636aafd/" height="30" alt="sweet alert logo"  />
   <img width="12" />

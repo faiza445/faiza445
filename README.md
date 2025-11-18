@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XUah3htpivTPXPcaIpuMYp_OUm1J9JDQ-MHAg1SVvxSVASAHMyQicl6orcQqJhl-p34&usqp=CAU" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/https://ucarecdn.com/c4c55828-7bcf-4661-8f4f-52745636aafd/" height="30" alt="sweet alert logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGguMU7C4fZb0mMFl2vqOPf3uhExb7UfLNKg&s" height="30" alt="sweet alert logo"  />
   <img width="12" />
   
   <img width="12" />
